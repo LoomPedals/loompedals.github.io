@@ -13,3 +13,5 @@ The Loom Pedals system is an open-source modular hardware/software interface for
 [Driver Software](https://github.com/UnstableDesign/Loom-Pedals-Raspberry-Pi)
 
 [Design Software Interface](https://github.com/UnstableDesign/Loom-Pedals-AdaCAD)
+
+## [Project Overview](sections/overview.md)
